@@ -1,2 +1,2 @@
-# mysalt
-This is a very salty project 
+# My Salty Project
+This very salty project is for the Configuration Management Systems course by Tero Karvinen
